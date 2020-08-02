@@ -6,8 +6,8 @@ this project will give you a suggestions for movies like the one you put on the 
 
 ##instructions
 
-1. you have to get an api key from https://www.themoviedb.org/
-   2.replace the needed lines in src/app.js with your API key
+1. you have to get an api key from https://www.themoviedb.org/<br />
+2. replace the needed lines in src/app.js with your API key
 
 In the project directory, you can run:
 
